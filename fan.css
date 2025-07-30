@@ -1,0 +1,47 @@
+
+
+body{
+    background-image: url("image/background.webp");
+}
+
+h1{
+    color: red;
+    height: 350px;
+    width: 250px;
+}
+
+    img {
+  width: 75%;
+  height: auto;
+  object-fit: contain;
+  margin-bottom: 5vh;
+}
+
+video{
+    width: 75%;
+    height: auto;
+}
+
+#body-photos
+{
+    background-image: none;
+    background-color: rgb(62, 59, 59);
+}
+
+#actualites{
+    background-image: none;
+    
+}
+
+#main-actu
+{
+    background-color: rgba(255, 255, 255, 0.404);
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
